@@ -1,6 +1,10 @@
 => Init Tai local computer & commit to local server, push len GitHub
 Edit tai GitHub
+
 Edit tai Local computer
+
 
 Edit tai Local computer lan 2
 Edit tai Local computer lan 3
+
+Edit tai GitHub Lan 2
